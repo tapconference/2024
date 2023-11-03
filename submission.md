@@ -48,4 +48,4 @@ The papers will receive corresponding badges.
 
 Accepted submissions will be published in Springer’s LNCS series. 
 
-<p align="center"><img src="/assets/images/LNCS-Logo.jpeg" width="200"/></p>
+<p align="center"><img src="/2024/assets/images/LNCS-Logo.jpeg" width="200"/></p>

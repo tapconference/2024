@@ -35,15 +35,15 @@ including foundational work, tool development, and empirical
 research. Topics of interest center around the combination of static
 techniques such as proving and dynamic techniques such as testing.
 
-- Please check the <a href="/callforpapers.html">call for papers</a> for a list of topics of interest.
+- Please check the <a href="/2024/callforpapers.html">call for papers</a> for a list of topics of interest.
 
 ## Submission and Proceedings
 
 Accepted submissions will be published in Springer’s LNCS series. 
 
-<p align="center"><img src="/assets/images/LNCS-Logo.jpeg" width="200"/></p>
+<p align="center"><img src="/2024/assets/images/LNCS-Logo.jpeg" width="200"/></p>
 
-- Please check the <a href="/submission.html">submission</a> page for detailed instructions
+- Please check the <a href="/2024/submission.html">submission</a> page for detailed instructions
 for preparing your submission.
 
 
