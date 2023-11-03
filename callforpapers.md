@@ -5,7 +5,7 @@ permalink: /callforpapers.html
 ---
 
 
-<a href="https://github.com/tapconference/2024/TAP2024_CFP.txt">Download text version of the CFP</a>
+<a href="https://raw.githubusercontent.com/tapconference/2024/main/TAP2024_CFP.txt">Download text version of the CFP</a>
 
 TAP 2024 is the 18th International Conference on Tests and Proofs. TAP
 promotes research in verification and formal methods that targets the
