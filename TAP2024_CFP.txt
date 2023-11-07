@@ -12,21 +12,14 @@ Research in verification has seen an increase in heterogeneous
 techniques and a synergy between the traditionally distinct areas of
 dynamic and static analysis. There is growing awareness that dynamic
 techniques such as testing and static techniques such as proving are
-complementary rather than mutually exclusive. Dynamic analysis
-typically offers cost-effective debugging techniques of
-specifications or crucial parts of program proofs (such as
-invariants) and is indispensable when it comes to the validation of
-the underlying assumptions of complex system models involving
-hardware and/or system environments. Static analysis provides strong
-guarantees, but typically requires more effort (which can be reduced
-by exploiting dynamic analysis results). Notable examples that
+complementary rather than mutually exclusive. Notable examples that
 provide evidence for the potential of a combination of static and
 dynamic analysis are counterexample generation based on symbolic
 execution, the integration of SAT/SMT-solving in model checking, or
 the combination of predicate abstraction with exhaustive enumeration.
-The verification of ML-based systems spurs novel combinations of
-dynamic and static analyses, e.g., property verification of surrogate
-models that are generated through testing.
+The verification of systems based on machine learning spurs novel 
+combinations of dynamic and static analyses, e.g., property 
+verification of surrogate models that are generated through testing. 
 
 TAP’s scope encompasses many aspects of verification technology,
 including foundational work, tool development, and empirical
@@ -44,7 +37,7 @@ coverage criteria,
 - Specification inference by deductive or dynamic methods,
 - Testing and runtime analysis of formal specifications,
 - Search-based techniques for proving and testing,
-- Testing and Verification of ML-based systems,
+- Testing and Verification of systems based on machine learning,
 - Verification of verification tools and environments,
 - Applications of test and proof techniques in new domains,
 - Combined approaches of test and proof in the context of
