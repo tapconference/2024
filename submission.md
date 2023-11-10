@@ -42,7 +42,8 @@ criteria as well as suitability to the conference’s technical program.
 After notification, all artifacts of accepted papers will be reviewed
 with respect to their availability, consistency with and replicability
 of results in the paper, completeness, documentation, and ease of use.
-The papers will receive corresponding badges.
+The papers with publicly available artifacts will receive 
+corresponding badges.
 
 ### Proceedings
 

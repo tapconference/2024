@@ -48,7 +48,8 @@ experience reports
 Authors are encouraged (but not required) to make the relevant
 artifacts available to the reviewers (and whenever possible
 publicly). Artifacts can be provided at submission time or after
-notification of acceptance.
+notification of acceptance and will go through a lightweight 
+reviewing process, handing out availability badges.
 
 
 Important Dates
