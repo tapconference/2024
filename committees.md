@@ -11,7 +11,27 @@ permalink: /committees.html
 
 ## Program Committee
 
-To be announced.
+- Wolfgang Ahrendt, Chalmers University of Technology
+- Oana Andrei, University of Glasgow
+- María del Mar Gallardo, University of Málaga
+- Catherine Dubois, ENSIIE-Samovar
+- Rüdiger Ehlers, Clausthal University of Technology
+- Marie Farrell, The University of Manchester
+- Fatemeh Ghassemi, University of Tehran
+- Reiner Hähnle, TU Darmstadt
+- Marie-Christine Jakobs, Ludwig-Maximilians-Universität München (LMU Munich)
+- Jan Kofroň, Charles University
+- Nikolai Kosmatov, Thales Research & Technology
+- Florian Lorber, Silicon Austria Labs
+- Anastasia Mavridou, KBR / NASA Ames Research Center
+- Luigia Petre, Åbo Akademi University
+- Virgile Prevosto, Université Paris-Saclay, CEA, List
+- Daniel Ratiu, Autonomous Intelligent Driving
+- Cristina Seceleanu, Mälardalen University
+- Jan Strejček, Masaryk University
+- Mattias Ulbrich, Karlsruhe Institute of Technology
+- Neil Walkinshaw, The University of Sheffield
+- Heike Wehrheim, University of Oldenburg
 
 ## Steering Committee
 
