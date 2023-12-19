@@ -1,6 +1,3 @@
-Proposal for CFP
-================
-
 Aim and Scope
 -------------
 TAP 2024 is the 18th International Conference on Tests and Proofs. TAP
