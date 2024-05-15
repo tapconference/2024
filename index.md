@@ -5,8 +5,7 @@ title: About TAP
 
 ## Extended Deadlines!
 
-TAP 2024 has extended submission  
-<a href="/2024/dates.html">deadlines</a> to **June 14, 2024**. 
+TAP 2024 has extended submission <a href="/2024/dates.html">deadlines</a> to **June 14, 2024**. 
 
 ## Invited Speakers
 
