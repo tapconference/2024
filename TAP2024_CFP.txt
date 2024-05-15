@@ -52,12 +52,13 @@ reviewing process, handing out availability badges.
 Important Dates
 ---------------
 
-Abstract submission:   05/08/2024
-Paper submission:      05/15/2024
-Paper notification:    06/26/2024
-Artifact submission:   07/03/2024
+Abstract submission (optional):   06/12/2024
+Paper submission (extended):      06/14/2024
+
+Paper notification:    07/05/2024
+Artifact submission:   07/07/2024
 Artifact notification: 07/14/2024
-Camera-ready version:  07/17/2024
+Camera-ready version:  07/19/2024
 
 Conference: 09/09/2024-09/10/2024
 

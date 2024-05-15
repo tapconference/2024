@@ -3,6 +3,18 @@ layout: page
 title: About TAP
 ---
 
+## Extended Deadlines!
+
+TAP 2024 has extended submission  
+<a href="/2024/dates.html">deadlines</a> to **June 14, 2024**. 
+
+## Invited Speakers
+
+TAP 2024 will have two invited speakers:
+
+- <a href="https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rosemary-monahan">Rosemary Monahan</a> (Maynooth University, Ireland)
+- <a href="https://www.isse.tu-clausthal.de/ueber-uns/team-neu/professoren-und-dozenten/prof-dr-ruediger-ehlers">Rüdiger Ehlers</a> (TU Clausthal, Germany)
+
 ## Scope
 
 TAP 2024 is the 18th International Conference on Tests and Proofs. TAP
