@@ -20,7 +20,7 @@ permalink: /program.html
 - 12:30 – 14:00 Lunch
 
 - 14:00 - 15:20 **FM plenary keynote, invited by TAP**
-    - Rosemary Monahan. *TBA*
+    - Rosemary Monahan. *Formalising Requirements for Systems Verification*
 
 - 15:20 – 16:00 Coffee Break
 
@@ -32,7 +32,7 @@ permalink: /program.html
 ## Tuesday September 10
 
 - 9:00 – 10:20 **FM plenary keynote, invited by LOPSTR/PPDP**
-    - Ningning Xie. *TBA*
+    - Ningning Xie. *Safe and Easy Compile-Time Generative Programming*
 
 - 10:20 – 11:00 Coffee Break
 
@@ -42,7 +42,7 @@ permalink: /program.html
 - 12:30 – 14:00 Lunch
 
 - 14:00 – 15:20 **FM plenary keynote, invited by FMICS**
-    - Thierry Lecomte. *TBA*
+    - Thierry Lecomte. *B+ or how to model system properties in a formal software model*
 
 - 15:20 – 16:00 Coffee Break
 
