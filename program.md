@@ -55,4 +55,6 @@ permalink: /program.html
     - Maximilian Schlüter and Bernhard Steffen. *Affinitree: A Compositional Framework for Formal Analysis and Explanation of Deep Neural Networks*
     - Malte Mues, Julian Rüschoff and Ben Hermann. *Exploring Loose Coupling of Static Slicing with Dynamic Symbolic Execution on the JVM*
 
+<br/>
+
 - 19:00 - 22:00 **FM Reception Buffet**
