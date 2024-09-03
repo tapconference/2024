@@ -7,7 +7,7 @@ permalink: /program.html
 ## Monday September 9
 
 - 09:00 – 10:20 **FM plenary keynote, invited by FACS**
-    - Ana Cavalcanti. *TBA* 
+    - Ana Cavalcanti. *Comparing Reactive Models and Cyclic Components of Robotic Systems: The RoboStar approach to model-based testing* 
 
 - 10:20 – 10:55 Coffee Break 
 
