@@ -3,9 +3,9 @@ layout: page
 title: About TAP
 ---
 
-## Preprints of Papers
+## Proceedings
 
-<a href="https://tu-dortmund.sciebo.de/s/7KVOdvimjK3cYyS" target="_blank">Download ZIP</a>. 
+<a href="https://link.springer.com/book/978-3-031-72044-4" target="_blank">https://link.springer.com/book/978-3-031-72044-4</a>. 
 
 ## Extended Deadlines!
 
